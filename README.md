@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Larichdesign
+- 👀 I’m interested in ...
+- 🌱 I’m a Creative UI UX Designer...
+- 💞️ I’m looking to collaborate on Working on Moblile and Web designs...
+- 📫 How to reach me 
+call or whatsapp: +234 812 740 8233
+Email: designlarich@gmail.com
+Skype: live:princelarich69...
+
+<!---
+Larichdesign/Larichdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
